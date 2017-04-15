@@ -1,0 +1,8 @@
+title: Squeezebox-googlemusic
+description: Squeezebox (Logitech Media Server) Plug-in for Google Play Music
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
