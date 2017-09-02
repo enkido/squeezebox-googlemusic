@@ -9,7 +9,7 @@
 	<plugins>
 
 		<plugin name="GoogleMusic" version="0.6.2" minTarget="7.5" maxTarget="*">
-			<title lang="EN">3rd Party Google Play Music Plugin</title>
+			<title lang="EN">Google PlayMusic Plugin</title>
 			<desc  lang="EN">Google Music plugin. Listen to your Google Music library.</desc>
 			<creator>Enkido</creator>
 			<email>enkido@gmx.net</email>
@@ -19,7 +19,7 @@
 		</plugin>
 		
 		<plugin name="GoogleMusicProxy" version="0.1.0" minTarget="7.5" maxTarget="*">
-			<title lang="EN">3rd Party Google Play Music Proxy Plugin</title>
+			<title lang="EN">Google PlayMusic Proxy Plugin</title>
 			<desc  lang="EN">Google Music Proxy plugin. Listen to your Google Music library.</desc>
 			<creator>Enkido</creator>
 			<email>enkido@gmx.net</email>
