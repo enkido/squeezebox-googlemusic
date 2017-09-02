@@ -8,9 +8,9 @@
 
 	<plugins>
 		
-		<plugin name="GoogleMusicProxy" version="0.1.0" minTarget="7.5" maxTarget="*">
-			<title lang="EN">Google PlayMusic Proxy Plugin</title>
-			<desc  lang="EN">Google Music Proxy plugin. Listen to your Google Music library.</desc>
+		<plugin name="GoogleMusic" version="0.7.0" minTarget="7.5" maxTarget="*">
+			<title lang="EN">Google PlayMusic Plugin</title>
+			<desc  lang="EN">Google Music plugin. Listen to your Google Music library.</desc>
 			<creator>Enkido</creator>
 			<email>enkido@gmx.net</email>
 			<url>http://enkido.github.io/squeezebox-googlemusic/repository/GoogleMusicProxy-v0.1.0.zip</url>
